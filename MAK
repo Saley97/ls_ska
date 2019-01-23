@@ -1,0 +1,34 @@
+.       ..      1       112     author  Makefile        MAK     ft_ls   inc     lib     maks    obj     src
+src     obj     maks    lib     inc     ft_ls   author  112     Makefile        MAK     1       ..      .
+
+.
+..      .
+1       ..      .
+112     1       ..      .
+author  112     1       ..      .
+ft_ls   author  112     1       ..      .
+inc     ft_ls   author  112     1       ..      .
+lib     inc     ft_ls   author  112     1       ..      .
+lib     inc     ft_ls   author  112     MAK     1       ..      .
+lib     inc     ft_ls   author  112     Makefile        MAK     1       ..      .
+maks    lib     inc     ft_ls   author  112     Makefile        MAK     1       ..      .
+obj     maks    lib     inc     ft_ls   author  112     Makefile        MAK     1       ..      .
+src     obj     maks    lib     inc     ft_ls   author  112     Makefile        MAK     1       ..      .
+src     obj     maks    lib     inc     ft_ls   author  112     Makefile        MAK     1       ..      .
+
+.
+.       ..
+.       ..      1
+.       ..      1       112
+.       ..      1       112     author
+.       ..      1       112     author  ft_ls
+.       ..      1       112     author  ft_ls   inc
+.       ..      1       112     author  ft_ls   inc     lib
+.       ..      1       112     author  MAK     ft_ls   inc     lib
+.       ..      1       112     author  Makefile        MAK     ft_ls   inc     lib
+.       ..      1       112     author  Makefile        MAK     ft_ls   inc     lib     maks
+.       ..      1       112     author  Makefile        MAK     ft_ls   inc     lib     maks    obj
+.       ..      1       112     author  Makefile        MAK     ft_ls   inc     lib     maks    obj     src
+.       ..      1       112     author  Makefile        MAK     ft_ls   inc     lib     maks    obj     src
+
+.        ..       1        112      MAK      Makefile author   ft_ls    inc      lib      maks     obj      src
